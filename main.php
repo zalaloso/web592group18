@@ -1,4 +1,3 @@
-<?php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -527,4 +526,4 @@
     
 </body>
 </html>
-    echo 'Hello world!';
+    
