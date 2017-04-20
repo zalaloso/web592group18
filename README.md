@@ -10,6 +10,6 @@
  
  โครงงานนี้เป็นส่วนหนึ่งของวิชา 322-236 web Application Programming
  
- ภาควิชาวิทยาการคอมพิวเตอร์ ้http://www.cs.kku.ac.th
- คณะวิทยาศาสตร์ http://www.sc.kku.ac.th
- มหาวิทยาลัยขอนแก่น http://www.kku.ac.th
+ ภาควิชาวิทยาการคอมพิวเตอร์ ้http://www.cs.kku.ac.th<br>
+ คณะวิทยาศาสตร์ http://www.sc.kku.ac.th<br>
+ มหาวิทยาลัยขอนแก่น http://www.kku.ac.th<br>
